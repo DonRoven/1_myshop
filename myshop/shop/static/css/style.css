@@ -2,7 +2,11 @@
 body{
   font-size: 15px;
   font-family: 'Open Sans', sans-serif;
+  background: linen;
+  width: 500px;
+  margin: 200px
 }
+
 .top{
   padding: 20px 0;
   font-size: 25px;
